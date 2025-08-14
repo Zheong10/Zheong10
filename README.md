@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zuhar Ahamed</h1>
-<h3 align="center">Computer Science Undergraduate | React & Node.js Developer | AI/ML Enthusiast</h3> | Tutor | Future Pharmacist
+<h3 align="center">Computer Science Undergraduate | React & Node.js Developer | AI/ML Enthusiast| Tutor | Future Pharmacist</h3> 
   
 
 ---
