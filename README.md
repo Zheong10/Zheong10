@@ -52,7 +52,7 @@ Java application to manage student records with modular structure and file handl
 
 - 👨‍🏫 **Maths Tutor** – Supporting students in O/L and A/L Combined Maths.
 - 💊 **Pharmacy Assistant** – Practical experience with medications, prescriptions, and inventory management.
-- 🏏 **Cricket Team Member** – Represented school in local tournaments.
+
 
 ---
 
